@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+		
+		
+		
+		
+			{
+				"type": "pwa-chrome",
+				"request": "launch",
+				"name": "Open fcode.html",
+				"file": "c:\\Users\\User\\New folder\\New folder\\New folder (2)\\Zheeyarh\\fcode.html"
+			}
+		]
+	}
+}
